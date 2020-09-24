@@ -19,7 +19,8 @@
 
 
 ## Example of modification in main.cpp file
-```cout << "\n\n ===> START My code TEST <===";
+```rubi
+cout << "\n\n ===> START My code TEST <===";
 
         // Set the default values of the gate and amplitude of all the channels
         DataRecipe_ptr->GetMainDetault()->minAmplitude = 0.; // set minimal amplitude no ampl selection)\n
